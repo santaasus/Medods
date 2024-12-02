@@ -1,0 +1,12 @@
+{
+    "ServerPort": 8080,
+
+    "Database": {
+        "host": "localhost", 
+        "port": 5432,
+        "user": "vladimirslesarev",
+        "db_name": "mydb",
+        "password": "youShouldChangeThisPassword",
+        "sslmode": "disable"
+    }
+}
